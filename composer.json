@@ -1,0 +1,20 @@
+{
+	"name": "raditzfarhan/laravel-sortable",
+	"description": "Just a simple sortable behaviour for your Laravel and Lumen eloquent model.",
+	"type": "laravel-package",
+	"keywords": [ "laravel", "lumen", "sortable", "eloquent", "model" ],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Raditz Farhan",
+			"email": "raditzfarhan@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"RaditzFarhan\\LaravelSortable\\": "src/"
+		}
+	}
+}
