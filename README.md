@@ -11,7 +11,7 @@ Just a simple sortable behaviour for your Laravel and Lumen eloquent model.
 Via Composer
 
 ``` bash
-$ composer require raditzfarhan/laravel-sortable:^1.0
+$ composer require raditzfarhan/laravel-sortable
 ```
 
 ## Usage
